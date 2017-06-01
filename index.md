@@ -16,6 +16,6 @@ This is the home of Vesperin[^1], a source code curation system for Java source 
 - [**Mix**](https://github.com/vesperin/mix): (Base) library for all Vesperin operations.
 
 
-Further details about **Vesperin** can be found online at my [website](huascarsanchez.com/posts/thesiswork/)
+Further details about **Vesperin** can be found online at my [website](http://www.huascarsanchez.com/posts/thesiswork/)
 
 [^1]: Some of these components were described in a conference paper at the International Conference on Software Engineering (ICSE) 2015 titled "Source Code Curation on StackOverflow: The Vesperin System."
