@@ -10,9 +10,9 @@ This is the home of Vesperin[^1], a source code curation system for Java source 
 - [**Vesper**](https://github.com/vesperin/vesper): Source code curation library for Java 1.6 and above.
 - [**Kiwi**](https://github.com/vesperin/kiwi): Http API on top of vesper using Spray (on Heroku).
 - [**Violette**](https://github.com/vesperin/violette): A Chrome extension for curating Java code examples.
-- [**Cue**](https://github.com/vesperin/cue): Optimal source code segmentation and concepts' location/binding.
+- [**Cue**](https://github.com/vesperin/cue): Optimal semantic source code segmentation.
 - [**Stircup**](https://github.com/vesperin/stircup): Source code typicality analyzer.
-- [**Instrospector**](https://github.com/vesperin/introspector): Source code mining and concept analysis utilities.
+- [**Instrospector**](https://github.com/vesperin/introspector): Source code mining utilities.
 - [**Mix**](https://github.com/vesperin/mix): (Base) library for all Vesperin operations.
 
 
