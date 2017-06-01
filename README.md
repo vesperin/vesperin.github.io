@@ -1,4 +1,4 @@
-# Vesperin
+# The Vesperin System
 
 This is the home of Vesperin[^1], a source code curation system for Java source code. 
 
