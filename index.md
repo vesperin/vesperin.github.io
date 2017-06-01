@@ -1,4 +1,9 @@
-# The Vesperin System
+---
+home: true
+layout: default
+title: Vesperin on the Internet
+description: Vesperin Homepage
+---
 
 This is the home of Vesperin[^1], a source code curation system for Java source code. 
 
