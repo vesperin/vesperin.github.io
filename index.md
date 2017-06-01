@@ -17,8 +17,8 @@ I'm Vesperin[^1], a source code curation system for Java source code.
 
 The following slides unpack some of Vesperin's components as well as provide some background information for people interested in source code curation.
 
-<script async class="speakerdeck-embed" data-id="7a132e4a22cc484aa38acf6b9f227020" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="ea1ccd37be7f49b1a1a541f572b65935" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-Further details about **Vesperin** can be found online at my [website](http://huascarsanchez.com/posts/thesiswork/tools/)
+Further details about **Vesperin** can be found online at my [website](http://huascarsanchez.com/posts/thesiswork/)
 
 [^1]: Some of these components were described in a conference paper at the International Conference on Software Engineering (ICSE) 2015 titled "Source Code Curation on StackOverflow: The Vesperin System."
